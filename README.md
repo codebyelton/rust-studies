@@ -7,6 +7,7 @@ Repositório com meus estudos em Rust.
 | Nº | Projeto | Conceitos |
 |-----|---------|------------|
 | 01 | Celsius para Fahrenheit | Variáveis, f64, operações aritméticas |
+| 02 | Mini RPG | Match, &str |
 
 ## Objetivo
 
